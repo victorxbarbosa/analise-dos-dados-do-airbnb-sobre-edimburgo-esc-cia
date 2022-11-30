@@ -6,10 +6,6 @@
 
 <p align="center">  
   
-  [![linkedin](https://img.shields.io/badge/author-victorbarbosa-blue.svg)](https://www.linkedin.com/in/victorxbarbosa/) 
-  [![](https://img.shields.io/badge/python-3.7+-yellow.svg)](https://www.python.org/downloads/release/python-365/) 
-  [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html) 
-  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/victorxbarbosa)
   ![image](https://user-images.githubusercontent.com/100004569/189497499-787e7f66-442d-482e-9f70-30be8d7eecd2.png)
 
 </p1>
